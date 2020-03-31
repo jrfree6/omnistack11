@@ -30,17 +30,19 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="git/prev.png" width="100%">
+  <img alt="Frontend" src="frontend/src/assets/prev.png" width="100%" />
 </p>
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido se utilizando das seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
+- [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
+- [Knex](http://knexjs.org/)
+- [Axios](https://github.com/axios/axios)
 
 ## 💻 Projeto
 
