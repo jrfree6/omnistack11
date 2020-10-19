@@ -87,4 +87,4 @@ npm start
 
 ---
 
-by jrfree6 :wave:
+Develop by jrfree6 :wave:
